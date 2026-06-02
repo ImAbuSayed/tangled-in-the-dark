@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-the-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tangled In The Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-the-dark/) |
+| **Get License** | [Get a Licensing Quote for Tangled In The Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-the-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6e9b007983314a61631f6ffe933fad60c65f85861cf1cf5cea785c80e8227f7b` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
