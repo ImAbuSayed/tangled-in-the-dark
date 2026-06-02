@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-the-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tangled In The Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-the-dark/) |
+| **Get License** | [Obtain a Music License for Tangled In The Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-the-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers burning through the midnight haze
+> Your shadow dancing slowly in a quiet maze
+> I pull you closer, let the rhythm take its time
+> I’m leaning in to make this fleeting moment mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
